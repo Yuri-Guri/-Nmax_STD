@@ -9,5 +9,4 @@
 
 ​
 Install Allwinner quad-core A7 processor H3 ARM board in NMC-WO1UD2-WT.
-10
 ​
