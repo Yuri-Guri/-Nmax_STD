@@ -39,3 +39,4 @@ Install Allwinner quad-core A7 processor H3 ARM board in NMC-WO1UD2-WT.
 
 - External Interfaces:  Micro USB OTG(NanoPI Duo2), and COM-Port(Carrier Board).
 - Power input : Micro USB +5V(Carrier Board).
+- Connector "COM-Port" on the Carrier Board has +5v power utput pin.
