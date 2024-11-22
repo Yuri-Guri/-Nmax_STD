@@ -12,17 +12,22 @@ Install Allwinner quad-core A7 processor H3 ARM board in NMC-WO1UD2-WT.
 ​
 - NIKOMAX NMC-WO1UD2-WT
   
-  <img title="" src="https://yaroslavl.guru/article/nodered/441_1.jpg" alt="" width="264">
+  <img title="" src="https://yaroslavl.guru/article/nodered/441_1.jpg" alt="" width="564">
 ​
 - NanoPi Duo2
 ​
-<img title="" src="https://wiki.friendlyelec.com/wiki/images/0/01/NanoPi_Duo2-1.jpg" alt="File:NanoPi Duo2-1.jpg" width="298" data-align="inline">
+<img title="" src="https://wiki.friendlyelec.com/wiki/images/0/01/NanoPi_Duo2-1.jpg" alt="File:NanoPi Duo2-1.jpg" width="664" data-align="inline">
 ​
 
-- Carrier Board Nmax_STD
+- Carrier Board for Nano pi Duo2
   
   
-  <img title="" src="https://yaroslavl.guru/article/nodered/simulation_image_top.png" alt="" width="235">
+  <img title="" src="https://yaroslavl.guru/article/nodered/simulation_image_top.png" alt="" width="335">
+
+
+
+
+- In assemble
+
   
-  
-​
+   ​<img title="" src="https://user.fm/files/v2-5695f210c7e0c8924262fae47966488c/image_2024-11-22_222952098.png" alt="" width="664">
